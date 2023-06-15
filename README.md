@@ -16,8 +16,8 @@ Features offered by REMO
 ### A real-time whiteboard ###
 - Implemented using socketIO
 - Hosted on Heroku
-- Check it out [here](https://board-production-53d8.up.railway.app/?key=12345)
-- https://board-production-53d8.up.railway.app/?key=12345, change the key to create a new room
+- Check it out [here](https://remo-whiteboard-production.up.railway.app/?key=12345)
+- https://remo-whiteboard-production.up.railway.app/?key=12345, change the key to create a new room
 
 
 ### Access to GitHub profile ##
@@ -27,8 +27,8 @@ Features offered by REMO
 ### A chat interface ###
 - Implemented using socketIO
 - Hosted on Heroku
-- Check it out [here](https://chat-production-d191.up.railway.app/?key=12345&name=abc)
-- https://chat-production-d191.up.railway.app/?key=12345&name=abc, change the key and enter your name to create a new room
+- Check it out [here](https://remo-chat-production.up.railway.app/?key=12345&name=abc)
+- https://remo-chat-production.up.railway.app/?key=12345&name=abc, change the key and enter your name to create a new room
     
 
 ### Virtual environment ###
