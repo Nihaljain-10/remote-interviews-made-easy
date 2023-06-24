@@ -33,7 +33,7 @@ Features offered by RemoHire
 
 ### Virtual environment ###
 - Implemented using Create React App
-- provides a virtual environment with HTML, CSS, and JavaScript code editors. Interviewers can utilize these editors to assess and preview the coding skills of the interviewees
+- provides a virtual environment with HTML, CSS, and JavaScript code editors, Interviewers can utilize these editors to assess and preview the coding skills of the interviewees
 
 
 ## Contributors ##
