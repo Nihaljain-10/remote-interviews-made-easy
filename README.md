@@ -3,11 +3,11 @@ An interface to improve video interview experience..
 
 # Description
 
-REMO is an integrated interface to facilitate remote interviews for recruiters so that the interviewees can showcase their skills more effectively.
+RemoHire is an integrated interface to facilitate remote interviews for recruiters so that the interviewees can showcase their skills more effectively.
 
 **Checkout the live website [here]()**
 
-Features offered by REMO
+Features offered by RemoHire
 
 ### A audio-video interface ###
 - Implemented using webRTC
@@ -32,8 +32,8 @@ Features offered by REMO
     
 
 ### Virtual environment ###
-- Implemented using Nuvepro CloudLab API
-- Hosted on Google Cloud Platform
+- Implemented using Create React App
+- provides a virtual environment with HTML, CSS, and JavaScript code editors, Interviewers can utilize these editors to assess and preview the coding skills of the interviewees
 
 
 ## Contributors ##
