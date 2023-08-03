@@ -69,13 +69,15 @@ async function makeRoom() {
     // roomId = window.localStorage.getItem('roomId')
     console.log(roomId);
     //var boardLink = "https://removirtual-board.herokuapp.com/?key=" + roomId;
-    var boardLink = "https://remo-whiteboard-production.up.railway.app/?key=" + roomId;
+    //var boardLink = "https://whiteboard.web-workshop.xyz/public/?key=" + roomId;
+    var boardLink = "https://whiteboard.adaptable.app/?key=" + roomId;
     document.getElementById("board").setAttribute("src", boardLink);
     console.log(boardLink);
     name = window.localStorage.getItem('name');
     //var chatLink = "https://chat-at-remo.herokuapp.com/?key=" + roomId + "&name=" + name;
     //var chatLink = "https://chat-production-d191.up.railway.app/?key=" + roomId + "&name=" + name;
-    var chatLink = "https://remo-chat-production.up.railway.app/?key=" + roomId + "&name=" + name;
+    //var chatLink = "https://remotechatinterface.netlify.app/?key=" + roomId + "&name=" + name;
+    var chatLink = "https://chat-remo.web-workshop.xyz/?key=" + roomId + "&name=" + name;
     document.getElementById("chat").setAttribute("src", chatLink);
     console.log(chatLink);
     const db = firebase.firestore();
